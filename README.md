@@ -1,2 +1,1 @@
-# AlanBCole.github.io
-My website
+# My website docs
