@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+</head>
+<body>
+    {% include "partials/site-head.html" %}
+    <main tabindex="-1" id="main-content">
+        {% block content %}
+            <p>Helllllllooo, as Gus said. But don't look away... Or please DO look away for now until I am done building my site.</p>
+        {% endblock content %}
+    </main>
+</body>
+</html>

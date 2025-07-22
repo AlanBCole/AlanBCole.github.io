@@ -1,1 +1,12 @@
+*.log
+npm-debug.*
+*.scss
+*.swp
+.DS_STORE
+.sass-cache
+.env
+.cache
+
+
 node_modules
+src/_includes/css
