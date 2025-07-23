@@ -6,7 +6,7 @@ npm-debug.*
 .sass-cache
 .env
 .cache
-
+.vscode
 
 node_modules
 src/_includes/css

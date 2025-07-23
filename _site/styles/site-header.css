@@ -1,0 +1,4 @@
+a[data-state="active"] {
+    color: green;
+    text-decoration: none;
+}
